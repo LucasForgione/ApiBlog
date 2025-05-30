@@ -1,0 +1,21 @@
+# Archivos de compilación
+bin/
+obj/
+.vs/
+# Configuraciones de usuario
+*.user
+*.suo
+
+# Configuración de VSCode (si usas)
+.vscode/
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
